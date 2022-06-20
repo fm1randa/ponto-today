@@ -1,5 +1,6 @@
 # ponto-today
 Injects button to quickly acess today's timesheet.
+Use [Tampermonkey](https://www.tampermonkey.net/) for automatic execution.
 
 ![image](https://user-images.githubusercontent.com/35941797/174612552-4d1a0935-9daf-4f0c-8c3a-93c3c8ad3c09.png)
 
